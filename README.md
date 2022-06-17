@@ -1,8 +1,8 @@
-Library Management System.---
+Library Management System.
 
-Frontend: Repository: "lms"---
+Frontend: Repository: "lms"
 
-Backend: Repository: "lmsdb" ---
+Backend: Repository: "lmsdb"
 
 Contributors: 
 Noor Ul Ain Ehtisham,
